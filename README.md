@@ -21,3 +21,16 @@ Ficou bem explicado as definições de computação em nuvem, modelos de nuvens,
 - Principais soluções e ferramentas de gerenciamento segurança geral e segurança de rede;
 - Governança, privacidade e recursos de conformidade e gerenciamento de custos do Azure;
 - Comparação de CapEx e OpEx.
+
+## Módulo 1: Conceitos de Nuvem
+Benefícios da nuvem;
+
+Foi descrito os benefícios da confiabilidade e da previsibilidade na nuvem.
+- Alta disponibilidade;
+- Escalabilidade;
+- Elasticidade;
+- Confiabilidade;
+- Previsibilidade;
+- Segurança;
+- Governança;
+- Gerenciabilidade
